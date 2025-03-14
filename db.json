@@ -1,13 +1,14 @@
 {
   "users": [
     {
-      "id": "clerk_user_id",
-      "name": "John Doe",
-      "email": "john@example.com",
-      "communication_score": 85,
-      "aptitude_score": 78,
-      "technical_score": 90,
-      "overall_score": 84
-    }
+    "name": "guest",
+    "email": "guest@gmail.com",
+    "password": "123456",
+    "communication_score": 0,
+    "aptitude_score": 0,
+    "technical_score": 0,
+    "overall_score": 0,
+    "id": "1"
+  }
   ]
 }
